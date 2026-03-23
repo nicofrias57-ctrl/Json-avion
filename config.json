@@ -1,5 +1,5 @@
 {
-  "Version": "1.2",
+  "Version": "1.3",
   "ReleaseNotes": "Nueva Atualizacion Disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/nicofrias57-ctrl/Json-avion/refs/heads/main/config.json",
   "Sms": "",
@@ -9,10 +9,10 @@
   {
    "Name": "Personal 1 🇧🇷🏆 Cloudfront ",
    "FLAG": "br",
-   "ServerIP": "personal1.elnene.site",
+   "ServerIP": "recargas.personal.com.ar",
    "ServerPort": "80",
    "SSLPort": "",
-   "ProxyIP": "personal1.elnene.site",
+   "ProxyIP": "recargas.personal.com.ar",
    "ProxyPort": "80",
    "ServerUser": "",
    "ServerPass": "",
